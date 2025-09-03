@@ -1,16 +1,5 @@
 <h1 align="center">wieidze</h1>
-<div align="center">
-<h2 align="left"></h2>
 
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlpMmt3MWdhdm9mdWM1dHZka2F2NzExMWRucGV4MXN1eGdkOTdtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.gif"  />
 </div>
 
 ###
